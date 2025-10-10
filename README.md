@@ -1,5 +1,5 @@
 
-A collection of projects
+A collection of projects by Andrew Liew
 # Composting
 [**Compost App**](https://github.com/alie6645/ia) - A small JSwing app that stores data in .txt files and can estimate carbon/nitrogen ratio.
 
