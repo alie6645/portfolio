@@ -16,12 +16,16 @@ A collection of projects by Andrew Liew
 [**Ricochet**](https://github.com/alie6645/Ricochet) - A couple of small games/demos that try to use vectors to make stuff bounce.
 
 
-https://github.com/user-attachments/assets/18db829a-9e51-465a-8f8c-cc3d175f4dc1
+<video width="600" controls>
+<source src="https://github.com/alie6645/portfolio/raw/refs/heads/main/PortfolioVids/Ricochet.mp4">
+</video>
 
 
 
 [**Space Invasions**](https://github.com/alie6645/SpaceInvader) - A simple game inspired by Space Invaders.
 
 
-https://github.com/user-attachments/assets/9279b396-86da-4e13-ab7f-52febe6a7a26
+<video width="600" controls>
+<source src="https://github.com/alie6645/portfolio/raw/refs/heads/main/PortfolioVids/SpaceInvasions.mp4">
+</video>
 
