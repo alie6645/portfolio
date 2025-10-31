@@ -8,7 +8,7 @@ A collection of projects by Andrew Liew
 [**3D**](https://github.com/alie6645/Scene3d) - An attempt at 3d rendering with JSwing (has color, moving objects, lights).
 
 
-<video src="Screen Recordings/Scene3d.mp4" width="600" controls></video>
+<video src="PortfolioVids/Scene3d.mp4" width="600" controls></video>
 
 
 [**Ricochet**](https://github.com/alie6645/Ricochet) - A couple of small games/demos that try to use vectors to make stuff bounce.
