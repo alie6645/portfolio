@@ -1,8 +1,5 @@
 
 A collection of projects by Andrew Liew
-# Composting
-[**Compost App**](https://github.com/alie6645/ia) - A small JSwing app that stores data in .txt files and gives carbon/nitrogen ratios.
-<img width="300" height="300" alt="compost" src="https://github.com/user-attachments/assets/c6b482a2-89dd-44ef-a9c3-4cf97438a8b7" />
 
 # For Fun
 [**3D**](https://github.com/alie6645/Scene3d) - An attempt at 3d rendering with JSwing (has color, moving objects, lights).
